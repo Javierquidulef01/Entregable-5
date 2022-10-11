@@ -1,0 +1,17 @@
+{
+  "name": "entregable-5-selecfutbol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "node ./compilados-js/main.js",
+    "futbolista": "node ./compilados-js/Futbolista.js",
+    "entrenador": "node ./compilados-js/Entrenador.js",
+    "masajista": "node ./compilados-js/Masajista.js",
+    "persona": "node ./compilados-js/Persona.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
